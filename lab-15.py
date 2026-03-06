@@ -1,5 +1,3 @@
-# Exception handling (most important for a good programmer) (it means "Try this code, but if something goes wrong, don't crash—do this instead.)
-
 # Task 1: The Coffee Shop Menu (Dictionary)
 # You are writing the software for a local cafe&#39;s cash register. You need a way to look up the price of a
 # drink instantly. Dictionaries are perfect for this because every drink name (Key) maps to a specific
