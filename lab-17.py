@@ -1,6 +1,5 @@
-#Assignment no.3 (09/03/2026-Monday)
-
 # Question 1: The Security Vault 
+
 # Set a variable called secret_password to any word you like. Create an empty list called failed attempts.
 # Conditions:
 #  If they guess incorrectly, append their guess to the failed_attempts list.
@@ -27,6 +26,7 @@ for i in range(3):
 
 
 # Question 2: The Live Inventory
+
 # Create a dictionary representing a store&#39;s inventory with quantities:
 # inventory = {&quot;Apples&quot;: 3, &quot;Bananas&quot;: 5, &quot;Milk&quot;: 1}
 # Conditions:
@@ -52,6 +52,7 @@ print("Final Inventory:", inventory)
 
           
 # Question 3: The Extracurricular Analyzer
+
 # Start with two lists of students:
 # soccer_team = [&quot;Alice&quot;, &quot;Bob&quot;, &quot;Charlie&quot;, &quot;David&quot;]
 # chess_club = [&quot;Charlie&quot;, &quot;David&quot;, &quot;Eve&quot;, &quot;Frank&quot;]
@@ -76,6 +77,7 @@ print("Students who play both games:",both_clubs,"\nStudents who play only socce
 
 
 # Question 4: The Index Skipper
+
 # Start with a list of secret letters:
 # scrambled_message = [&quot;H&quot;, &quot;x&quot;, &quot;e&quot;, &quot;y&quot;, &quot;l&quot;, &quot;z&quot;, &quot;l&quot;, &quot;a&quot;, &quot;o&quot;].
 # Create a variable called index and set it to 0. Create an empty list called decoded_message
@@ -95,6 +97,7 @@ while index<len(scrambled_message):
     
 
 # Question 5: The High-Low Tracker
+
 # Create a variable called secret_number and set it to 42 (or any number you like). Create an empty list
 # called guess_history.
 # Conditions:
@@ -125,6 +128,7 @@ while True:
 
 
 # Question 6: The Digital Ballot Box
+
 # Create an empty dictionary called vote_counts.
 # Conditions:
 #  If the user types &quot;close polls&quot;, break the loop.
@@ -148,6 +152,7 @@ print("Election result:",vote_counts)
 
 
 # Question 7: The Secret Agent Translator
+
 # Create a dictionary called spy_codes with these key-value pairs:
 # Spy_codes = {&quot;eagle&quot;: &quot;target&quot;, &quot;nest&quot;: &quot;base&quot;, &quot;sunset&quot;: &quot;attack&quot;, &quot;shadow&quot;: &quot;hide&quot;}
 # Conditions:
@@ -168,3 +173,4 @@ while True:
         print("Unknown code word. Try again.")
 
         
+
